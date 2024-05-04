@@ -1,0 +1,11 @@
+{
+  "name": "isitagoodtimetobuysolana",
+  "version": "1.0.0",
+  "description": "This returns a boolean checking whether it is a goodtime to buy the cryptocurrency, solana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
